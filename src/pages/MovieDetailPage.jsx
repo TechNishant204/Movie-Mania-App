@@ -51,10 +51,12 @@ const MovieDetailPage = () => {
           <img
             src={movie.Poster}
             alt={movie.Title}
-            className="w-full md:w-1/3 p-4 md:p-8 object-fill rounded-xl drop-shadow-2xl"
+            className="w-full md:w-1/3 p-2  md:p-8 object-fill rounded-xl drop-shadow-2xl mt-4 md:mt-8"
           />
-          <div className="md:ml-4 space-y-3">
-            <h1 className="text-5xl font-bold mt-4 mb-8">{movie.Title}</h1>
+          <div className="md:ml-4 space-y-3 mt-4 md:mt-8">
+            <h1 className="text-3xl md:text-5xl font-bold mt-4 mb-8">
+              {movie.Title}
+            </h1>
             <p className="text-gray-200">
               <span className="font-bold">Year : </span> {movie.Year}
             </p>
