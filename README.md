@@ -1,3 +1,14 @@
+### Movie Mania App
+![Screenshot 2025-03-05 103548](https://github.com/user-attachments/assets/7195b47a-6613-46b3-9914-7b7209951922)
+<br>
+<br>
+![Screenshot 2025-03-05 103610](https://github.com/user-attachments/assets/dbcf7250-4401-416c-9fdc-e8355a800aa6)
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
