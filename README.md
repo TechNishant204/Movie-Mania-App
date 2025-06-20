@@ -1,16 +1,9 @@
-### Movie Mania App
+
 ![image](https://github.com/user-attachments/assets/6d5450a6-c1b4-41a4-8d92-3c13d513b8e8)
 
 ### View Site : https://movie-mania-hub.netlify.app/
 
-###                                                Home Page
-![Screenshot 2025-03-05 103548](https://github.com/user-attachments/assets/7195b47a-6613-46b3-9914-7b7209951922)
-<br>
-<br>
-###                                              MovieDetails Page
-![Screenshot 2025-03-05 103610](https://github.com/user-attachments/assets/dbcf7250-4401-416c-9fdc-e8355a800aa6)
-
-# 🎬 Movie Search App
+# 🎬 Movie-Mania App
 
 Welcome to the **Movie Search App** – your gateway to exploring the world of cinema. Whether you're looking for the latest blockbuster, a timeless classic, or simply want to explore movie details like cast, plot, and genre, this web application has you covered. Powered by a clean and responsive interface, it makes movie discovery fast, fun, and intuitive.
 
@@ -33,6 +26,13 @@ Welcome to the **Movie Search App** – your gateway to exploring the world of c
 
 - 📱 **Responsive UI**  
   Seamlessly works across all devices – from desktops and laptops to tablets and smartphones.
+
+###                                                Home Page
+![Screenshot 2025-03-05 103548](https://github.com/user-attachments/assets/7195b47a-6613-46b3-9914-7b7209951922)
+<br>
+<br>
+###                                              MovieDetails Page
+![Screenshot 2025-03-05 103610](https://github.com/user-attachments/assets/dbcf7250-4401-416c-9fdc-e8355a800aa6)
 
 - ⚡ **Fast and Lightweight**  
   Built with modern tools and optimized for performance to ensure smooth navigation and data fetching.
